@@ -8,7 +8,7 @@ c. SQS
 d. SNS  
 e. Integration of S3 with other services  
 
-![image](https://github.com/user-attachments/assets/1131dfba-961d-4073-a271-cb174b3a68fb)
+![image](https://github.com/user-attachments/assets/d058cfb6-78bc-4b98-837e-ac2e0120bd0b)
 
 ## Steps
 
